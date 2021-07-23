@@ -19,7 +19,12 @@ Yes it is safe to use, it does not interfere with the game in any way. It's equi
 
 ### Installing
 
-* Download from [My personal website](http://tonic.pw/files/bdo/BDOPingChecker.exe) or compile your own
+* Download from [My personal website](http://tonic.pw/files/bdo/BDOPingChecker.exe), [Releases section](https://github.com/Tonnilson/BDOPingChecker/releases) or compile your own
+
+## Features
+* Dragging anywhere on the screen while saving the last position on application close
+* Change background opacity from the settings window accessed via the Tasktray
+* Lock the window from being moved
 
 ## Help
 
