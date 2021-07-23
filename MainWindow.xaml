@@ -1,0 +1,14 @@
+﻿<Window x:Class="BDOPingChecker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BDOPingChecker"
+        mc:Ignorable="d"
+        Title="BDO Ping Checker" AllowsTransparency="True" Height="63.438" Width="66.057" Background="{x:Null}" WindowStyle="None" Deactivated="Window_Deactivated" Loaded="Window_Loaded" Foreground="{x:Null}" ResizeMode="CanMinimize" Closing="SaveSettings">
+    <Grid Background="{x:Null}">
+        <Grid x:Name="BackgroundOpacity" x:FieldModifier="public" Background="#FF1E1F24" Opacity="0.3"/>
+        <Label HorizontalContentAlignment="Center" Content="Ping" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Foreground="White" FontWeight="Bold" Width="auto" Height="auto" Margin="0,0,0,34"/>
+        <Label x:Name="WorldLabel" HorizontalContentAlignment="Center" Content="999ms" Foreground="White" Width="auto" Height="auto" FontWeight="Bold" Margin="0,20,0,0" FontSize="18"/>
+    </Grid>
+</Window>
