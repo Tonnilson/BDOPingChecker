@@ -24,13 +24,6 @@ As unfortunate as it is that this is not natively built into the game I decided 
 ### It just says NCON
 As stated above the game must be running and you must be in a server. This is only tested for NA but the ports should be the same for EU, other regions are unknown. Each region/version of the game utilizes different ports.
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 1.0
